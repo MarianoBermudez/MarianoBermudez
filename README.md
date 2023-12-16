@@ -1,4 +1,11 @@
-### Hi there 👋
+👋 Hi, I´m Mariano Bermúdez.
+
+💻 I´m really into python, data science and data analysis.
+
+🎓 I am a 2nd year student in Computer Science.
+
+I am from San Juan, Argentina. 
+I have a B2 level certificate in English
 
 <!--
 **MarianoBermudez/MarianoBermudez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+💼 I'm looking to get into my first job
+
 -->

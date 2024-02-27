@@ -6,4 +6,4 @@
 
 🛠️ Explore my GitHub repositories to witness my projects, where I've applied all my knowledge in the field.
 
-🌐 I'm currently seeking opportunities to immerse myself in real-world projects. Excited to learn and contribute.
+🌐 I'm currently seeking opportunities to immerse myself in real-world projects.

@@ -1,9 +1,9 @@
-👋 Hi, I´m Mariano Bermúdez, a Junior Data Scientist.
+👋 Hi, I´m Mariano Bermúdez.
 
-🎓 I am a 2nd-year Computer Science student at F.C.E.F.N in San Juan, Argentina.
+🎓 I am a 2nd-year Computer Science student at F.C.E.F.N. in San Juan, Argentina.
 
-💻 I´ve a deep interest in data science and artificial intelligence.
+💻 I am deeply interested in the application of Data Science and Artificial Intelligence to solve challenging problems.
 
-🛠️ Explore my GitHub repositories to witness my projects, where I've applied all my knowledge in the field.
+🛠️ Check out my [GitHub repositories](https://github.com/MarianoBermudez?tab=repositories) to see the projects I've developed throughout my learning journey. 
 
-🌐 I'm currently seeking opportunities to immerse myself in real-world projects.
+🌐 I'm currently seeking opportunities as an Entry-level/Junior Data Scientist to immerse myself in real-world projects. Connect with me on [LinkedIn](https://www.linkedin.com/in/marianobermúdez/).
